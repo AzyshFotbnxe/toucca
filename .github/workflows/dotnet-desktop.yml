@@ -43,6 +43,7 @@ on:
     branches: [ "wpf" ]
   pull_request:
     branches: [ "wpf" ]
+  workflow_dispatch:
 
 jobs:
 
